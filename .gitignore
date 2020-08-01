@@ -1,0 +1,8 @@
+.vs/*
+Win32/*
+x64/*
+out/*
+jansson-*.tar.gz
+jansson-*/
+7za*.exe
+pax_global_header
